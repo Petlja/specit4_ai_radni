@@ -47,15 +47,15 @@
 ===============
 
 Репозиторијум, као што примећујеш, садржи датотеке:
-- 03-библиотека_numpy.ipynb
-- 03-библиотека_matplotlib.ipynb
-- 04-експлоративна_анализа_података.ipynb
-- 06-линеарна_регресија.ipynb
-- 06-градијентни_спуст.ipynb
-- 07-aлгоритам_к_најближих_суседа.ipynb
-- 10-мрежа_VGG_16_и_задатак_класификације_слика.ipynb
-- 10-трансформери_и_језички_задаци.ipynb
-- 11-к_средина.ipynb
+- 03-biblioteka_numpy.ipynb
+- 03-biblioteka_matplotlib.ipynb
+- 04-eksplorativna_analiza_podataka.ipynb
+- 06-linearna_regresija.ipynb
+- 06-gradijentni_spust.ipynb
+- 07-algoritam_k-najblizih_suseda.ipynb
+- 10-mreza_VGG-16_i_zadatak_klasifikacije.ipynb
+- 10-transformeri_i_jezicki_zadaci.ipynb
+- 11-k-sredina.ipynb
 
 Редни бројеви материјала су везани за редне бројеве секција у којима се обрађују, немој да те збуни што нису узастопни јер немају све секције пратеће вежбе. 
 
