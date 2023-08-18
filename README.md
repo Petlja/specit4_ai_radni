@@ -49,7 +49,7 @@
 Репозиторијум, као што примећујеш, садржи датотеке:
 - 03-biblioteka_numpy.ipynb
 - 03-biblioteka_matplotlib.ipynb
-- 04-eksplorativna_analiza_podataka.ipynb
+- 05-eksplorativna_analiza_podataka.ipynb
 - 06-linearna_regresija.ipynb
 - 06-gradijentni_spust.ipynb
 - 07-algoritam_k-najblizih_suseda.ipynb
